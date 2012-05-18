@@ -2,7 +2,7 @@
 #############################################################################################
 #
 #   Plesk Event Handller Tool for Creating vhost.conf in User Space
-#       Copyright (C) 2010 MATSUMOTO, Ryosuke
+#       Copyright (C) 2012 MATSUMOTO, Ryosuke
 #
 #   This Code was written by matsumoto_r                 in 2012/05/18 -
 #
