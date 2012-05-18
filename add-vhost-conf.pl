@@ -50,7 +50,7 @@ our $USER_CONF      = File::Spec->catfile("conf", "vhost.conf");
 our $USER_SSL_CONF  = File::Spec->catfile("conf", "vhost_ssl.conf");
 our $DOMAIN_UPDATE  = (!defined $user)  ?   1   :   0;
 our $SUEXEC_USER    = $user if defined $user;
-our $SUEXEC_GROUP   = "suexecuser";
+our $SUEXEC_GROUP   = "suexegroup";
 our $TUNING_CONF    = File::Spec->catfile($vroot, $domain, "conf", "tuning.conf");
 our $CONFIG_TYPE    = $type;
 
